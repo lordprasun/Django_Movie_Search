@@ -1,0 +1,7 @@
+Setting Up the project:
+
+django-admin startproject Django_Movie_DB
+git init
+git remote add origin https://github.com/lordprasun/Django_Movie_Search.git
+manage.py startapp MvSearch
+
